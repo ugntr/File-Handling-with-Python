@@ -1,0 +1,2 @@
+This is an example file for counting the characters in the file
+using file handling in python.
